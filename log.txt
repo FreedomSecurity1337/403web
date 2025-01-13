@@ -2,7 +2,7 @@
 
 /*------------------ LOGIN -------------------*/
 
-$username="validasi";
+$username="admin";
 $password="213377";
 $email="";
 
